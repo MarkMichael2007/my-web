@@ -1,0 +1,27 @@
+.book1{
+    text-align: center;
+    background-color: blue;
+}
+.book2{
+    text-align: center;
+    background-color: red;
+}
+.book3{
+    text-align: center;
+    background-color: purple;
+}
+.book4{
+    text-align: center;
+    background-color: peru;
+}
+ul li {
+    text-align: center;
+}
+h3{
+    text-align: center;
+    color: #000000ee;
+}
+.thetop{
+    text-align: center;
+    color: gold;
+}
